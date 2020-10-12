@@ -1,0 +1,106 @@
+/* 
+   Final Project 
+   results.CSS
+   Goes with results.php file 
+ */
+
+body 
+{
+	font-family: 'Schoolbell';
+	color: white;
+	font-size: 120%;
+}
+
+.body
+{
+    width: 1200px;
+    margin: 0 auto;
+    padding: 1em;
+	padding-bottom: 30px;
+    background-image: url("chalkboard.jpg");
+    border: 4px solid black;
+}
+
+.dropdown
+{
+    text-align: center;
+	margin-left: 35px;
+}
+
+.dropdown select
+{
+	margin-right: 10px;
+}
+
+#intro
+{
+	text-align: center;
+}
+
+h1
+{
+	color: white;
+	text-align: center;
+}
+
+h3
+{
+	text-align: center;
+	margin-bottom: 0;
+}
+
+form
+{
+	text-align: center;
+}
+
+p 
+{
+	text-align: center;
+}
+
+.button {
+
+  background-color: #FFD700;
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  font-weight: bold;
+  font-family: arial;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.center {
+   text-align: center;  
+}
+
+#check_answ
+{
+	text-align: center;
+	margin-left: 200px;
+}
+
+
+
+fieldset 
+{
+    margin-top: 1em;
+    margin-bottom: 1em;
+    padding: .5em;
+}
+legend 
+{
+    color: white;
+    font-size: 100%;
+    margin-bottom: .5em;
+}
+
+h5
+{
+	text-align: center;
+}
